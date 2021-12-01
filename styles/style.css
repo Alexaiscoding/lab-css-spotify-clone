@@ -5,4 +5,59 @@ Text: 1A1A1A
 Green: #00B172
 White: #FFF
 
-*/
+html,
+body{}height:100%;
+color:white; 
+
+/* Iteration 1:Navbar */
+
+#nav{
+    position:fixed;
+    width: 130px;
+    height: 30px;px;
+    float: left; 
+    padding-top :9px;
+    padding-left: 12px;
+    top: 0px;
+
+}
+nav ul li {
+    display:inline;
+    font-family: sans-serif;
+    color:black;
+}
+
+nav ul {
+    margin-top:20px;
+    margin-right:25px;
+    list-style-type: none;
+    color: white;
+    float:right;
+    font-size: 20px;
+    font-family: sans-serif;
+}
+#logo1{
+border: 5px solid;
+height: 5px;
+width: 2px; 
+}
+
+
+ul{
+    align-items: right;
+    float: right;
+    flex: 30px ;
+}
+
+/*Iteration 2:Large image background with textNavbar */
+
+#landingtext{
+width: 100px;
+list-style: none;
+height: 100%;
+width:100%;
+}
+/*Iteration 3: What is on Spotify section */
+
+
+/* Iteration 4: The green section */
